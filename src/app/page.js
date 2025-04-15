@@ -15,8 +15,8 @@ export default function Home() {
       sizes="100vw"
        src='/background/RockymountainsbgAI.png' alt="background-image"
        fill
-       className={"w-full h-full object-cover object-center opacity-50"}/>
-       <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/12 z-50">
+       className={"w-full h-full object-cover object-center opacity-80"}/>
+       <div className="absolute top-1/2 left-1/2 transform -translate-x-0 translate-y-[150px] z-50">
   <HomeRedirect />
   </div>
       <div className="w-full h-screen">

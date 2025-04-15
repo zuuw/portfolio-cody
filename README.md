@@ -1,6 +1,6 @@
 # Cody's Interactive 3D Portfolio - New Technologies (to me)
 
-**[IN PROGRESS]** My interactive threejs personal portfolio built with **Next.js**, featuring a real-time 3D avatar rendered using **Three.js**. Custom 3D models were created in **Blender** and brought to life on the web with **react-three-fiber**.
+**[IN PROGRESS]** My interactive threejs personal portfolio built with **Next.js**, featuring a real-time 3D avatar rendered using **Three.js**. Custom 3D models were created in **Blender** and brought to life with **react-three-fiber**.
 
 ## Tech Stack
 
